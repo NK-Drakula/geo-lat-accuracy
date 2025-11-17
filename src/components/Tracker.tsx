@@ -1,4 +1,3 @@
-import React from "react";
 import { useGeolocationWatch } from "../hooks/useGeolocationWatch";
 // import { useGeolocationWatch } from "./useGeolocationWatch";
 

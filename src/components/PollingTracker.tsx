@@ -1,4 +1,3 @@
-import React from "react";
 import { useGeolocationPolling } from "../hooks/useGeolocationPolling";
 
 export default function PollingTracker() {
